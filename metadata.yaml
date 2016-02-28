@@ -1,0 +1,30 @@
+_repo: A-Romany-of-the-Snows-vol-2-Being-a-Continuation-of-the-Personal-Histories-of-Pierre-and-His-P__6181
+creator:
+  author:
+    agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Horatio Gilbert
+    - Parker, Gilbert, Sir, bart.
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6181'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canada, Northern -- Fiction'
+- !lcsh 'Short stories, Canadian'
+tableOfContents: Malachi -- The lake of the Great Slave -- The Red Patrol -- The going
+  of the white swan -- At Bamber's Boom.
+title: "A Romany of the Snows, vol. 2\r\nBeing a Continuation of the Personal Histories\
+  \ of \"Pierre and His People\" and the Last Existing Records of Pretty Pierre"
+url: http://www.gutenberg.org/ebooks/6181
